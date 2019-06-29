@@ -1,0 +1,10 @@
+C:\Users\pris\source\repos\KeyValueStore\KeyValueStore\bin\Debug\KeyValueStore.exe.config
+C:\Users\pris\source\repos\KeyValueStore\KeyValueStore\bin\Debug\KeyValueStore.exe
+C:\Users\pris\source\repos\KeyValueStore\KeyValueStore\bin\Debug\KeyValueStore.pdb
+C:\Users\pris\source\repos\KeyValueStore\KeyValueStore\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pris\source\repos\KeyValueStore\KeyValueStore\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pris\source\repos\KeyValueStore\KeyValueStore\obj\Debug\KeyValueStore.csprojAssemblyReference.cache
+C:\Users\pris\source\repos\KeyValueStore\KeyValueStore\obj\Debug\KeyValueStore.csproj.CoreCompileInputs.cache
+C:\Users\pris\source\repos\KeyValueStore\KeyValueStore\obj\Debug\KeyValueStore.csproj.CopyComplete
+C:\Users\pris\source\repos\KeyValueStore\KeyValueStore\obj\Debug\KeyValueStore.exe
+C:\Users\pris\source\repos\KeyValueStore\KeyValueStore\obj\Debug\KeyValueStore.pdb
